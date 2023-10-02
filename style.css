@@ -437,7 +437,7 @@ p {
   padding: 0;
 }
 .navbar-area.navbar-nine .navbar .navbar-toggler .toggler-icon {
-  width: 30px;
+  width: 25px;
   height: 2px;
   background-color: var(--white);
   margin: 5px 0;
